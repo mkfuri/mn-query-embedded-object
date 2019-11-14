@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: mn.query.embedded.object
+---
+testFramework: spock
+sourceLanguage: java
